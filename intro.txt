@@ -5,4 +5,4 @@ Need to learn the below:
 2. Merge branch.
 3. PULL requests etc.
 4. Various other commands
-4. Git push, pull, merge etc
+5. Git push, pull, merge etc
