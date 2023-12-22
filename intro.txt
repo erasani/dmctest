@@ -1,1 +1,6 @@
 GITHUB testing for DMC
+
+Need to learn the below:
+1. Creating a branch.
+2. Merge branch.
+3. PULL requests etc.
