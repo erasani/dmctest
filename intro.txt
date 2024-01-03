@@ -6,3 +6,4 @@ Need to learn the below:
 3. PULL requests etc.
 4. Various other commands
 5. Git push, pull, merge etc
+6. Learn all commands
